@@ -16,3 +16,5 @@ e.g. `amidi -p "hw:2,0,0" --send your_voice.syx`
 ## Disclaimer
 
 It can take several attempts to get a reasonable voice
+
+Copyright (c) 2020 Herbert Lange
